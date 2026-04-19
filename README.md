@@ -9,8 +9,8 @@
 I'm **Aarav**, a 13-year-old fullstack developer and avgeek based in the UK. I'm currently in Year 9, am a fullstack web developer and game developer alongside my GCSEs.
 
 - 🛩️ Already at the yoke of a **Piper PA-28 Cherokee** at 13 trying to go for my PPL
-- 🎮 Building games in **Roblox Studio** and learning **Godot**
-- 🖥️ Running a home server on a **Raspberry Pi** with Docker, Nginx & SSL
+- 🎮 Building games in **Roblox Studio, Godot and Unity**
+- 🖥️ Running a home server on a **Raspberry Pi** with Docker, Nginx
 - ✈️ Flight sim enthusiast — **X-Plane 12** with the LevelUp 737-800 and fly on VATSIM
 - 📻 I'm a **Foundation Amateur Radio Operator** (HAM)
 
