@@ -30,7 +30,7 @@ I'm **Aarav**, a 13-year-old fullstack developer and aviation enthusiast based i
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,sqlite)](https://skillicons.dev)
 
 ### Tools & Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx,git,github,linux,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,git,github,linux,webstorm,pycharm)](https://skillicons.dev)
 
 ### Game Dev
 [![My Skills](https://skillicons.dev/icons?i=godot,unity)](https://skillicons.dev)
@@ -42,20 +42,17 @@ I'm **Aarav**, a 13-year-old fullstack developer and aviation enthusiast based i
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🏙️ **SkyReach Visuals** | Portfolio & agency site deployed with CI/CD | React · Express · Docker · GitHub Actions |
-| 🎬 **Movie Watchlist** | Search and save movies using OMDB API | HTML · CSS · Vanilla JS |
-| 🎁 **Gift Genie** | AI-powered gift suggestion app | React · Claude API |
-| 🗣️ **PollyGlot** | AI language learning assistant | React · Claude API |
-| 🎮 **Biggest Fatty** | Web game with Firebase leaderboard & cosmetics | JS · Firebase |
 | 🛩️ **ATC Radar Scope** | Live ATC24 radar built with Leaflet.js *(in progress)* | React · Leaflet · Express · SSE |
 | 🏗️ **Roblox ATC Idle Game** | Aviation themed idle/tycoon game *(in progress)* | Lua · Roblox Studio |
+| 🎮 **Clicker Game** | Fullstack clicker with global SSE leaderboard *(in progress)* | React · Express · PostgreSQL · Prisma · SSE |
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CaptainAarav&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainAarav&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -78,4 +75,6 @@ I'm **Aarav**, a 13-year-old fullstack developer and aviation enthusiast based i
 
 <div align="center">
   <i>Fullstack dev by day, ATC controller by night (on VATSIM)</i>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
