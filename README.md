@@ -74,5 +74,5 @@ I'm **Aarav**, a 13-year-old fullstack developer and aviation enthusiast based i
 <div align="center">
   <i>Fullstack dev by day, ATC controller by night (on VATSIM)</i>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=CaptainAarav&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
