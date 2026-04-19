@@ -12,7 +12,7 @@ I'm **Aarav**, a 13-year-old fullstack developer and aviation enthusiast based i
 - 🎮 Building games in **Roblox Studio** and learning **Godot**
 - 🖥️ Running a home server on a **Raspberry Pi** with Docker, Nginx & SSL
 - ✈️ Flight sim enthusiast — **X-Plane 12** with the LevelUp 737-800 and fly on VATSIM
-- 📻 Studying for my **Foundation Amateur Radio Licence**
+- 📻 I'm a **Foundation Amateur Radio Licence** (HAM)
 
 ---
 
