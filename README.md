@@ -8,13 +8,11 @@
 
 I'm **Aarav**, a 13-year-old fullstack developer and aviation enthusiast based in the UK. I'm currently in Year 9, self-teaching fullstack web development and game development alongside my GCSEs.
 
-- 🛩️ Already at the controls of a **Piper PA-28 Cherokee** at 13
+- 🛩️ Already at the controls of a **Piper PA-28 Cherokee** at 13 trying to go for my PPL
 - 🎮 Building games in **Roblox Studio** and learning **Godot**
-- 🖨️ Printing a full **Iron Man suit** on my Bambu X1 Carbon
 - 🖥️ Running a home server on a **Raspberry Pi** with Docker, Nginx & SSL
-- ✈️ Flight sim enthusiast — **X-Plane 12** with the LevelUp 737-800
+- ✈️ Flight sim enthusiast — **X-Plane 12** with the LevelUp 737-800 and fly on VATSIM
 - 📻 Studying for my **Foundation Amateur Radio Licence**
-- 🖊️ Writing with a **Pilot Custom 823** fountain pen
 
 ---
 
@@ -60,7 +58,7 @@ I'm **Aarav**, a 13-year-old fullstack developer and aviation enthusiast based i
 ## Currently Learning
 
 - 🎮 Roblox Studio & Lua scripting
-- ✈️ Flying a real aircraft (PA-28 Cherokee)
+- ✈️ Doing my PPL
 - 📻 Amateur radio (Foundation licence)
 - 🔧 Low level programming — C/C++ on the roadmap
 
@@ -69,7 +67,7 @@ I'm **Aarav**, a 13-year-old fullstack developer and aviation enthusiast based i
 ## Contact
 
 - 💬 Discord: `captain_aarav`
-- 🌐 Portfolio: *coming soon*
+- 🌐 Portfolio: https://captainaarav.dev/
 
 ---
 
