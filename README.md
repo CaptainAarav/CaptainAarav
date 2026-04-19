@@ -22,16 +22,16 @@ I'm **Aarav**, a 13-year-old fullstack developer and avgeek based in the UK. I'm
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,lua,cs)](https://skillicons.dev)
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,html,css,tailwind)](https://skillicons.dev)
 
 ### Backend & Database
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,express,postgres,sqlite,prisma)](https://skillicons.dev)
 
 ### Tools & Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx,git,github,linux,webstorm,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,git,github,linux,vim,webstorm,pycharm)](https://skillicons.dev)
 
 ### Game Dev
-[![My Skills](https://skillicons.dev/icons?i=godot,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=godot,unity,blender,)](https://skillicons.dev)
 
 ---
 
