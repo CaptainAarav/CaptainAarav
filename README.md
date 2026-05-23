@@ -40,8 +40,8 @@ I'm **Aarav**, a 13-year-old fullstack developer based in Bletchley, Milton Keyn
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **RadioReady** | Amateur radio exam prep bot — accepted into the OARC Discord server | Python · disnake · Docker · SQLite|
-| **SkyReach Visuals** | Portfolio & agency site with reverse proxy deployment | React · Express · Docker · PostgreSQL |
+| **RadioReady** | Amateur radio exam prep bot added into the popular OARC Discord server | Python · disnake · Docker · SQLite|
+| **SkyReach Visuals** | Portfolio & agency site for a freinds business | React · Express · Docker · PostgreSQL |
 
 
 ---
