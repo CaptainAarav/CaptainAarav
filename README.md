@@ -1,18 +1,19 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Aarav+%F0%9F%91%8B;Fullstack+Web+Dev+%7C+Game+Dev;Aviation+Enthusiast+%7C+Future+Pilot;Building+cool+stuff+since+Year+7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Aarav;Fullstack+Dev+%7C+Game+Dev+%7C+Ham+Radio;Student+Pilot+%7C+Year+9;Building+real+things+since+Year+7" alt="Typing SVG" />
 </div>
 
 ---
 
 ## About Me
 
-I'm **Aarav**, a 13-year-old fullstack developer and avgeek based in the UK. I'm currently in Year 9, am a fullstack web developer and game developer alongside my GCSEs.
+I'm **Aarav**, a 13-year-old fullstack developer based in Bletchley, Milton Keynes, UK. Currently in Year 9, typing away at my keyboard building projects alongside my GCSEs.
 
-- 🛩️ Already at the yoke of a **Piper PA-28 Cherokee** at 13 trying to go for my PPL
-- 🎮 Building games in **Roblox Studio, Godot and Unity**
-- 🖥️ Running a home server on a **Raspberry Pi** with Docker, Nginx
-- ✈️ Flight sim enthusiast — **X-Plane 12** with the LevelUp 737-800 and fly on VATSIM
-- 📻 I'm a **Foundation Amateur Radio Operator** (HAM)
+- At the yoke of a **Piper PA-28 Cherokee**, working toward my PPL
+- Foundation Amateur Radio Operator callsign **M7NBO**, studying for my Intermediate licence
+- Flight sim on **X-Plane 12** in the 737-800NG flying on VATSIM (~200hr TWR)
+- Running a home server fleet **Raspberry Pi 4B and a dedicated server** to host websites, discord bots and game servers
+- 3D printing on a **Bambu Lab X1 Carbon**
+- DM running a homebrew D&D campaign
 
 ---
 
@@ -25,13 +26,13 @@ I'm **Aarav**, a 13-year-old fullstack developer and avgeek based in the UK. I'm
 [![My Skills](https://skillicons.dev/icons?i=react,vite,html,css,tailwind)](https://skillicons.dev)
 
 ### Backend & Database
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,express,postgres,sqlite,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,sqlite,prisma)](https://skillicons.dev)
 
 ### Tools & Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx,git,github,linux,vim,webstorm,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,git,github,linux,vscode,webstorm,pycharm)](https://skillicons.dev)
 
 ### Game Dev
-[![My Skills](https://skillicons.dev/icons?i=godot,unity,blender,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=godot,unity,blender)](https://skillicons.dev)
 
 ---
 
@@ -39,41 +40,38 @@ I'm **Aarav**, a 13-year-old fullstack developer and avgeek based in the UK. I'm
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🏙️ **SkyReach Visuals** | Portfolio & agency site deployed with CI/CD | React · Express · Docker · GitHub Actions |
-| 🛩️ **ATC Radar Scope** | Live ATC24 radar built with Leaflet.js *(in progress)* | React · Leaflet · Express · SSE |
-| 🏗️ **Roblox ATC Idle Game** | Aviation themed idle/tycoon game *(in progress)* | Lua · Roblox Studio |
-| 🎮 **Clicker Game** | Fullstack clicker with global SSE leaderboard *(in progress)* | React · Express · PostgreSQL · Prisma · SSE |
+| **RadioReady** | Amateur radio exam prep bot — accepted into the OARC Discord server | Python · disnake · Docker · SQLite|
+| **SkyReach Visuals** | Portfolio & agency site with reverse proxy deployment | React · Express · Docker · PostgreSQL |
+
 
 ---
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaptainAarav&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainAarav&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</div>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=CaptainAarav&theme=github_dark&hide_border=true" alt="GitHub Streak" />
 
 ---
 
 ## Currently Doing / Learning
 
-- 🎮 Roblox Studio & Lua scripting
-- ✈️ Doing my PPL
-- 📻 Amateur radio (Foundation licence)
-- 🔧 Low level programming — C/C++ on the roadmap
-- 📚 GCSEs
+- **Scrimba Fullstack Path** React Fundamentals done, working through Advanced React, TypeScript, Next.js
+- **C/C++** picking up low level programming
+- **Intermediate Amateur Radio licence** working through the RSGB book hopefull to get my intermediate licence soon
+- **PPL** PPL training at Cranfeild flying school
+- **D&D** DMing a homebrew campaign, building a world and running sessions
+- **GCSEs** OCR Sciences & CS, AQA Maths/Geography/English, Edexcel Art
 
 ---
 
 ## Contact
 
-- 💬 Discord: `captain_aarav`
-- 🌐 Portfolio: https://captainaarav.dev/
+- Discord: `captain_aarav`
+- Portfolio: https://captainaarav.dev/
 
 ---
 
 <div align="center">
-  <i>Fullstack dev by day, ATC controller by night (on VATSIM)</i>
+  <i>Fullstack dev by day, VATSIM controller by night, M7NBO on weekends</i>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=CaptainAarav&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
