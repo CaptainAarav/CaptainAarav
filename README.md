@@ -11,7 +11,7 @@ I'm **Aarav**, a 13-year-old fullstack developer based in Bletchley, Milton Keyn
 - At the yoke of a **Piper PA-28 Cherokee**, working toward my PPL
 - Foundation Amateur Radio Operator callsign **M7NBO**, studying for my Intermediate licence
 - Flight sim on **X-Plane 12** in the 737-800NG flying on VATSIM (~200hr TWR)
-- Running a home server fleet **Raspberry Pi 4B and a dedicated server** to host websites, discord bots and game servers
+- Home labbing with a **Raspberry Pi 4B and a dedicated server** to host websites, discord bots and game servers
 - 3D printing on a **Bambu Lab X1 Carbon**
 - DM running a homebrew D&D campaign
 
