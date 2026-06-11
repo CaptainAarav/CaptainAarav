@@ -9,7 +9,7 @@
 I'm **Aarav**, a 13-year-old fullstack developer based in Bletchley, Milton Keynes, UK. Currently in Year 9, typing away at my keyboard building projects alongside my GCSEs.
 
 - At the yoke of a **Piper PA-28 Cherokee**, working toward my PPL
-- Foundation Amateur Radio Operator callsign **M7NBO**, studying for my Intermediate licence
+- Intermediate Amateur Radio Operator callsign: **M8NBO**, studying for my Full Licence
 - Flight sim on **X-Plane 12** in the 737-800NG flying on VATSIM (~200hr TWR)
 - Home labbing with a **Raspberry Pi 4B and a dedicated server** to host websites, discord bots and game servers
 - 3D printing on a **Bambu Lab X1 Carbon**
@@ -56,7 +56,7 @@ I'm **Aarav**, a 13-year-old fullstack developer based in Bletchley, Milton Keyn
 
 - **Scrimba Fullstack Path** React Fundamentals done, working through Advanced React, TypeScript, Next.js
 - **C/C++** picking up low level programming
-- **Intermediate Amateur Radio licence** working through the RSGB book hopefull to get my intermediate licence soon
+- **Full Amateur Radio licence** working through the RSGB book hopefull to get my Full licence soon
 - **PPL** PPL training at Cranfeild flying school
 - **D&D** DMing a homebrew campaign, building a world and running sessions
 - **GCSEs** OCR Sciences & CS, AQA Maths/Geography/English, Edexcel Art
@@ -71,7 +71,7 @@ I'm **Aarav**, a 13-year-old fullstack developer based in Bletchley, Milton Keyn
 ---
 
 <div align="center">
-  <i>Fullstack dev by day, VATSIM controller by night, M7NBO on weekends</i>
+  <i>Fullstack dev by day, VATSIM controller by night, M8NBO on weekends</i>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=CaptainAarav&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
