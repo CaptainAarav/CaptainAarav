@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm **Aarav**, a 13-year-old fullstack developer based in Bletchley, Milton Keynes, UK. Currently in Year 9, typing away at my keyboard building projects alongside my GCSEs.
+I'm **Aarav**, a 13-year-old fullstack developer based in the UK. Currently in Year 9, typing away at my keyboard building projects alongside my GCSEs.
 
 - At the yoke of a **Piper PA-28 Cherokee**, working toward my PPL
 - Intermediate Amateur Radio Operator callsign: **M8NBO**, studying for my Full Licence
