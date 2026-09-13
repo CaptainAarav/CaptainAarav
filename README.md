@@ -8,7 +8,7 @@ in whatever time's left over.
 - flying flightsim
 - DMing a D&D campaign.
 
-## Stack
+## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,express,nextjs,postgres,sqlite,lua,bash,c,cpp,go,docker,nginx,git,github,gitlab,linux,vscode,pycharm,webstorm,vim,neovim,godot)](https://skillicons.dev)
 
