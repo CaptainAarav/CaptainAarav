@@ -4,8 +4,8 @@
 in whatever time's left over.
 
 ## **Also into:** 
-- amateur radio (M8NBO intermediate licence, working toward full),
-- flying flightsim
+- Amateur radio (M8NBO intermediate licence, working toward full),
+- Flying flightsim
 - DMing a D&D campaign.
 
 ## Tech Stack
