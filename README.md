@@ -9,7 +9,7 @@ D&D campaign.
 
 ## Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,express,nextjs,postgres,sqlite,lua,docker,nginx,git,github,linux,vscode,pycharm,webstorm,vim,neovim,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,express,nextjs,postgres,sqlite,lua,bash,c,cpp,go,docker,nginx,git,github,gitlab,linux,vscode,pycharm,webstorm,vim,neovim,godot)](https://skillicons.dev)
 
 ## Projects
 
