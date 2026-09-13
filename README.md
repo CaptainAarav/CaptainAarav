@@ -3,7 +3,7 @@
 14 year old fullstack dev in the UK. doing my GCSEs day and building things
 in whatever time's left over.
 
-**Also into:** 
+## **Also into:** 
 - amateur radio (M8NBO intermediate licence, working toward full),
 - flying flightsim
 - DMing a D&D campaign.
