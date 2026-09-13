@@ -3,9 +3,10 @@
 14 year old fullstack dev in the UK. doing my GCSEs day and building things
 in whatever time's left over.
 
-**Also into:** amateur radio (M8NBO, Intermediate licence, working toward Full),
-flying flightsim and DMing a
-D&D campaign.
+**Also into:** 
+- amateur radio (M8NBO intermediate licence, working toward full),
+- flying flightsim
+- DMing a D&D campaign.
 
 ## Stack
 
@@ -14,18 +15,21 @@ D&D campaign.
 ## Projects
 
 **[RadioReady](link)** — Ham radio exam prep Discord bot, running in a
-4,000 member server. Python, disnake, SQLite. Helped real people pass their exams.
+4,000 member server. Python, disnake, SQLite. And helped real people pass their exams.
 
 **[Quizzical](link)** — A quiz app pulling questions from a trivia API.
 React, Express.
 
-**[AI Coding Agent](link)** — A CLI coding agent that can read, write,
+**[AI Coding Agent](link)** — A CLI coding agent similar to claude code and opencode that can read, write,
 and execute code, with tool calling and a web search capability. Python,
 OpenAI API.
 
 ## Currently
 
-Learning low level programming in C/C++ and ASMx86, and learning Go for backend dev and learning game dev in Godot
+- Learning low level programming in C/C++ and ASMx86 
+- Learning Go as a new backend language
+- Learning to 3d moddeling in blender
+- Learning game development in Godot
 
 ---
 Discord: `captain_aarav`
