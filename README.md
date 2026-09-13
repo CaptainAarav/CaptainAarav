@@ -1,77 +1,34 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Aarav;Fullstack+Dev+%7C+Game+Dev+%7C+Ham+Radio;Student+Pilot+%7C+Year+9;Building+real+things+since+Year+7" alt="Typing SVG" />
-</div>
+# Hey, I'm Aarav
 
----
+14 year old fullstack dev in the UK. doing my GCSEs day and building things
+in whatever time's left over.
 
-## About Me
+**Also into:** amateur radio (M8NBO, Intermediate licence, working toward Full),
+flying flightsim and DMing a
+D&D campaign.
 
-I'm **Aarav**, a 13-year-old fullstack developer based in the UK. Currently in Year 9, typing away at my keyboard building projects alongside my GCSEs.
+## Stack
 
-- At the yoke of a **Piper PA-28 Cherokee**, working toward my PPL
-- Intermediate Amateur Radio Operator callsign: **M8NBO**, studying for my Full Licence
-- Flight sim on **X-Plane 12** in the 737-800NG flying on VATSIM (~200hr TWR)
-- Home labbing with a **Raspberry Pi 4B and a dedicated server** to host websites, discord bots and game servers
-- 3D printing on a **Bambu Lab X1 Carbon**
-- DM running a homebrew D&D campaign
-
----
-
-## Tech Stack
-
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,lua,cs)](https://skillicons.dev)
-
-### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,vite,html,css,tailwind)](https://skillicons.dev)
-
-### Backend & Database
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,sqlite,prisma)](https://skillicons.dev)
-
-### Tools & Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx,git,github,linux,vscode,webstorm,pycharm)](https://skillicons.dev)
-
-### Game Dev
-[![My Skills](https://skillicons.dev/icons?i=godot,unity,blender)](https://skillicons.dev)
-
----
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,postgres,sqlite,go,c,docker,git,linux,godot)](https://skillicons.dev)
 
 ## Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **RadioReady** | Amateur radio exam prep bot added into the popular OARC Discord server | Python · disnake · Docker · SQLite|
-| **SkyReach Visuals** | Portfolio & agency site for a freinds business, visit here [SkyReach Visuals](https://skyreachvisuals.co.uk/) | React · Express · Docker · PostgreSQL |
+**[RadioReady](link)** — Ham radio exam prep Discord bot, running in a
+4,000 member server. Python, disnake, SQLite. Helped real people pass their exams.
 
+**[Quizzical](link)** — A quiz app pulling questions from a trivia API.
+React, Express.
 
----
+**[AI Coding Agent](link)** — A CLI coding agent that can read, write,
+and execute code, with tool calling and a web search capability. Python,
+OpenAI API.
 
-## GitHub Stats
+## Currently
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=CaptainAarav&theme=github_dark&hide_border=true" alt="GitHub Streak" />
-
----
-
-## Currently Doing / Learning
-
-- **Scrimba Fullstack Path** React Fundamentals done, working through Advanced React, TypeScript, Next.js
-- **C/C++** picking up low level programming
-- **Full Amateur Radio licence** working through the RSGB book hopefull to get my Full licence soon
-- **PPL** PPL training at Cranfeild flying school
-- **D&D** DMing a homebrew campaign, building a world and running sessions
-- **GCSEs** OCR Sciences & CS, AQA Maths/Geography/English, Edexcel Art
+Learning low level programming in C/C++ and ASMx86, and learning Go for backend dev and learning game dev in Godot
 
 ---
+Discord: `captain_aarav`
+Email: `aaravsahni1037@gmail.com`
 
-## Contact
-
-- Discord: `captain_aarav`
-- Portfolio: https://captainaarav.dev/
-
----
-
-<div align="center">
-  <i>Fullstack dev by day, VATSIM controller by night, M8NBO on weekends</i>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=CaptainAarav&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=CaptainAarav&color=58a6ff&style=flat-square&label=views" alt="Profile Views" />
