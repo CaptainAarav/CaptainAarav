@@ -14,13 +14,13 @@ in whatever time's left over.
 
 ## Projects
 
-**[RadioReady](link)** — Ham radio exam prep Discord bot, running in a
+**[RadioReady](https://github.com/CaptainAarav/RadioReady)** — Ham radio exam prep Discord bot, running in a
 4,000 member server. Python, disnake, SQLite. And helped real people pass their exams.
 
-**[Quizzical](link)** — A quiz app pulling questions from a trivia API.
+**[Quizzical](https://github.com/CaptainAarav/Quizzical)** — A quiz app pulling questions from a trivia API.
 React, Express.
 
-**[AI Coding Agent](link)** — A CLI coding agent similar to claude code and opencode that can read, write,
+**[AI Coding Agent](https://github.com/CaptainAarav/Ai-Agent)** — A CLI coding agent similar to claude code and opencode that can read, write,
 and execute code, with tool calling and a web search capability. Python,
 OpenAI API.
 
